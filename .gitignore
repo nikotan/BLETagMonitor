@@ -1,0 +1,6 @@
+.DS_Store
+old/
+esp32_BLETagMonitorMQTT/config.h
+rpi_python/log
+__pycache__/
+*.release
